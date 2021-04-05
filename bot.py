@@ -39,4 +39,4 @@ class MyClient(Client):
 
 
 client = MyClient()
-client.run("ODI2MzEwNTY3NTI5Njc2ODAx.YGKnrw.71wQl5Bj_rx08rhioeKPH9VVw5Y")
+client.run("")
